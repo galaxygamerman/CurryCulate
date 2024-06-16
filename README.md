@@ -1,7 +1,3 @@
-<div align="center">
-  
-
-
   <br />
   <br />
 
@@ -9,16 +5,7 @@
 
   CurryCulate is a fully responsive education website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/CurryCulate/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
 <br />
-
-### Demo Screeshots
-
-![CurryCulate Desktop Demo](./readme-images/desktop.png "Desktop Demo")
-
 ### Prerequisites
 
 Before you begin, ensure you have met the following requirements:
